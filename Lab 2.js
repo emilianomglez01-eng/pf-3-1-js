@@ -6,4 +6,4 @@ export function addTwoNumbers(a=5, b=7){
   console.log(15 + a)
   return a + b
 }
-console.log(addTwoNumbers() + " es la suma de 5 + 7")
+console.log(addTwoNumbers() + " es la suma de 5 +")
